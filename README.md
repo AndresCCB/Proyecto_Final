@@ -109,21 +109,45 @@ Se le presiona en el boton amarillo, que tiene un estilo de lapiz, el cual mostr
 
 Asi:
 
-![image](https://user-images.githubusercontent.com/110188177/203327088-ea12814d-bc7d-4289-91a1-7f6b2fc1a3c1.png)
+![image](https://user-images.githubusercontent.com/110188177/203328261-f2d548ee-7102-4fa0-acbf-e98908c1a7db.png)
 
 ![image](https://user-images.githubusercontent.com/110188177/203327997-3773e269-5e2f-4d7b-a66b-c822d83e474c.png)
 
 ![image](https://user-images.githubusercontent.com/110188177/203327713-3ac590be-2b55-4148-8e4d-c82cb8816fd0.png)
 
+![image](https://user-images.githubusercontent.com/110188177/203328307-8082d982-c9ee-4d42-8a2d-826e44ec1acc.png)
 
+![image](https://user-images.githubusercontent.com/110188177/203328348-65891e21-b262-4985-bfd3-3e169a0bfef5.png)
 
+<br />
 
+### Actualizacion de la informacion en base de datos
 
+![image](https://user-images.githubusercontent.com/110188177/203328481-1409fcec-a9e3-4aa7-9edd-d3ae2d3d6de7.png)
 
+<br />
 
+### Eliminacion de informacion en Aplicacion
 
+<br />
 
+Se le presiona en el boton rojo, que tiene un estilo de basura, el cual eliminara la informacion de la aplicacion y de la base de datos de forma definitiva, en este caso eliminaremos el registro de id 2.
 
+<br />
 
+Asi:
 
+![image](https://user-images.githubusercontent.com/110188177/203328963-c12f3333-ccfd-4bba-8a8a-ab6aabd4ed07.png)
 
+![image](https://user-images.githubusercontent.com/110188177/203329005-851eba3c-6a88-4c18-8e45-d24a3912ea97.png)
+
+<br />
+
+### Eliminacion de informacion en Base de Datos
+
+![image](https://user-images.githubusercontent.com/110188177/203329104-9e145a1d-5a8b-4874-808f-1f97d114e059.png)
+
+<br />
+<br />
+
+Es asi el funcionamiento de la base de datos en conjunto de la apliacion web; Este trabajo fue realizado por el estudiante de ingenieria de sistemas Andres Camilo Castro Bravo, como proyecto final para la materia de Bases de Datos.
