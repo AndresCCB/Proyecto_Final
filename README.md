@@ -111,6 +111,13 @@ Asi:
 
 ![image](https://user-images.githubusercontent.com/110188177/203327088-ea12814d-bc7d-4289-91a1-7f6b2fc1a3c1.png)
 
+![image](https://user-images.githubusercontent.com/110188177/203327997-3773e269-5e2f-4d7b-a66b-c822d83e474c.png)
+
+![image](https://user-images.githubusercontent.com/110188177/203327713-3ac590be-2b55-4148-8e4d-c82cb8816fd0.png)
+
+
+
+
 
 
 
