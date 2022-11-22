@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos/main.css">
+    <script src="https://kit.fontawesome.com/3d5dc49622.js" crossorigin="anonymous"></script>
+    <title>Ultimo CRUD</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="/"> PROYECTO FINAL ACCBL </a>
+            </div>
+        </nav>
+    </header>
+    <br><br>
+    <div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="main-content">
+                    <div class="crud-container">
+                        <p>
+                            A continuacion podra ingresar datos de 
+                            los neumaticos
+                        </p>
+                        <p>
+                            Posteriormente podra ver los datos ingresados.
+                        </p>
+                        <br><br>
+                        <form id="Neumatico-formulario">
+                            <h1>NEUMATICOS</h1>
+                            <label for="id-neumatico">ID Neumatico:</label><br>
+                            <input type="text" placeholder="ID" id="id-neumatico" style="width : 250px"><br>
+                            <label for="tipo-neumatico">Tipo de Neumatico:</label><br>
+                            <input type="text" placeholder="Tipo" id="tipo-neumatico" style="width : 250px" ><br>
+                            <label for="gama-neumatico">Gama de Neumatico:</label><br>
+                            <input type="text" placeholder="Gama" id="gama-neumatico" style="width : 250px"><br>
+                            <label for="especificaciones">Especificaciones:</label><br>
+                            <textarea id="especificaciones" rows="4" cols="30" placeholder="Especificaciones Del Neumatico"></textarea><br>
+                            <label for="precio">Precio:</label><br>
+                            <input type="number" placeholder="Precio" id="precio" style="width : 250px" ><br>
+                            <label for="cantidad-invent">Cantidad en Inventario:</label><br>
+                            <input type="number" placeholder="Disponibilidad en inventario" id="cantidad-invent" style="width : 250px" ><br>
+                            <br>
+                            <button type="submit" class="button is-success" id="btn-guardar-neumatico">
+                                <i class="fas fa-save"></i>
+                                <span>Guardar Neumatico</span>
+                            </button>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <br><br>
+            <div class="info-container">
+                <p class="prioridad">Recuerda que para el correcto funcionamiento 
+                    de los botones debes presionar en la 
+                    parte superior de los mismos
+                </p>
+                <br><br>
+                <div class="col-md-3" id="neumaticos-container"></div>
+            </div>
+        </div>
+        
+    </div>
+    <script type="module" src="./app.js"></script>
+</body>
+</html>
